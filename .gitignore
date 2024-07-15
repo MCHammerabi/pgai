@@ -1,3 +1,4 @@
 .env
 .idea
 jupyter/data
+__pycache__/
